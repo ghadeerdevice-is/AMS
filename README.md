@@ -56,3 +56,25 @@ client/
     components/      pages (Home, Flights, Details, Map, Services, Lost, Guide, Login, Signup) and shared UI
 .github/workflows/   GitHub Pages deployment
 ```
+
+## Screenshots
+
+| Home | Flights |
+|---|---|
+| ![Home](docs/screenshots/home.png) | ![Flights](docs/screenshots/flights.png) |
+
+| Flight details | Airport map |
+|---|---|
+| ![Flight details](docs/screenshots/flight-details.png) | ![Airport map](docs/screenshots/airport-map.png) |
+
+| Services | Lost & Found |
+|---|---|
+| ![Services](docs/screenshots/services.png) | ![Lost and Found](docs/screenshots/lost-and-found.png) |
+
+| Passenger guide | Login |
+|---|---|
+| ![Passenger guide](docs/screenshots/passenger-guide.png) | ![Login](docs/screenshots/login.png) |
+
+| Register |
+|---|
+| ![Register](docs/screenshots/register.png) |
